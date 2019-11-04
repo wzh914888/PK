@@ -1026,7 +1026,7 @@
 #u10595 {
   position:absolute;
   left:903px;
-  top:614px;
+  top:559px;
   width:75px;
   height:40px;
 }
@@ -1106,7 +1106,7 @@
 #u10599 {
   position:absolute;
   left:726px;
-  top:555px;
+  top:500px;
   width:252px;
   height:40px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -1149,7 +1149,7 @@
 #u10601 {
   position:absolute;
   left:726px;
-  top:614px;
+  top:559px;
   width:167px;
   height:40px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -1214,7 +1214,7 @@
 #u10605 {
   position:absolute;
   left:726px;
-  top:498px;
+  top:616px;
   width:252px;
   height:40px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -1241,7 +1241,7 @@
 #u10607 {
   position:absolute;
   left:953px;
-  top:509px;
+  top:624px;
   width:20px;
   height:19px;
 }
@@ -1251,5 +1251,91 @@
   top:2px;
   width:16px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u10609 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u10610_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:319px;
+}
+#u10610 {
+  position:absolute;
+  left:1117px;
+  top:479px;
+  width:60px;
+  height:319px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
+  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  color:#FF0000;
+  line-height:20px;
+}
+#u10611 {
+  position:absolute;
+  left:-101px;
+  top:152px;
+  width:280px;
+  visibility:hidden;
+  -webkit-transform:rotate(-90deg);
+  -moz-transform:rotate(-90deg);
+  -ms-transform:rotate(-90deg);
+  transform:rotate(-90deg);
+  word-wrap:break-word;
+  transform-origin:131px 7.5px;
+  -ms-transform-origin:131px 7.5px;
+  -moz-transform-origin:131px 7.5px;
+  -webkit-transform-origin:131px 7.5px;
+}
+#u10612_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:299px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  color:#FF0000;
+  text-align:left;
+  line-height:20px;
+}
+#u10612 {
+  position:absolute;
+  left:1010px;
+  top:608px;
+  width:299px;
+  height:60px;
+  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  color:#FF0000;
+  text-align:left;
+  line-height:20px;
+}
+#u10613 {
+  position:absolute;
+  left:10px;
+  top:12px;
+  width:279px;
   word-wrap:break-word;
 }
