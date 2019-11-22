@@ -80,6 +80,8 @@
 .checkbox {
   text-align:left;
 }
+.table_cell {
+}
 ._流程形状 {
 }
 ._默认样式 {
@@ -87,6 +89,12 @@
 .box_3 {
 }
 ._鼠标按下文本链接时1 {
+}
+._形状 {
+  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-weight:700;
+  font-size:16px;
+  color:#1ABC9C;
 }
 .icon {
 }
