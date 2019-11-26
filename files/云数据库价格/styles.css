@@ -328,8 +328,8 @@
 }
 #u6640 {
   position:absolute;
-  left:253px;
-  top:436px;
+  left:252px;
+  top:386px;
   width:224px;
   height:50px;
 }
@@ -357,8 +357,8 @@
 }
 #u6642 {
   position:absolute;
-  left:357px;
-  top:454px;
+  left:344px;
+  top:404px;
   width:59px;
   height:14px;
 }
@@ -2205,34 +2205,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:44px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u6748 {
-  position:absolute;
-  left:345px;
-  top:390px;
-  width:44px;
-  height:14px;
-}
-#u6749 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:44px;
-  white-space:nowrap;
-}
-#u6750_div {
-  position:absolute;
-  left:0px;
-  top:0px;
   width:75px;
   height:40px;
   background:inherit;
@@ -2243,28 +2215,28 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u6750 {
+#u6748 {
   position:absolute;
   left:1327px;
   top:311px;
   width:75px;
   height:40px;
 }
-#u6751 {
+#u6749 {
   position:absolute;
   left:2px;
   top:13px;
   width:71px;
   word-wrap:break-word;
 }
-#u6752 {
+#u6750 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
 }
-#u6753_div {
+#u6751_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -2286,7 +2258,7 @@
   color:#CCCCCC;
   text-align:left;
 }
-#u6753 {
+#u6751 {
   position:absolute;
   left:801px;
   top:311px;
@@ -2298,14 +2270,14 @@
   color:#CCCCCC;
   text-align:left;
 }
-#u6754 {
+#u6752 {
   position:absolute;
   left:10px;
   top:10px;
   width:148px;
   word-wrap:break-word;
 }
-#u6755_div {
+#u6753_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -2324,7 +2296,7 @@
   font-size:18px;
   color:#CCCCCC;
 }
-#u6755 {
+#u6753 {
   position:absolute;
   left:928px;
   top:311px;
@@ -2336,10 +2308,38 @@
   font-size:18px;
   color:#CCCCCC;
 }
-#u6756 {
+#u6754 {
   position:absolute;
   left:2px;
   top:11px;
   width:28px;
   word-wrap:break-word;
+}
+#u6755_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:42px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u6755 {
+  position:absolute;
+  left:353px;
+  top:462px;
+  width:42px;
+  height:14px;
+}
+#u6756 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:42px;
+  white-space:nowrap;
 }
