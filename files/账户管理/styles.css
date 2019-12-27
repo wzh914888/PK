@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1452px;
+  width:2723px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -2329,5 +2329,27 @@
   left:2px;
   top:13px;
   width:127px;
+  word-wrap:break-word;
+}
+#u14314_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1197px;
+  height:782px;
+}
+#u14314 {
+  position:absolute;
+  left:1526px;
+  top:178px;
+  width:1197px;
+  height:782px;
+}
+#u14315 {
+  position:absolute;
+  left:2px;
+  top:383px;
+  width:1193px;
+  visibility:hidden;
   word-wrap:break-word;
 }
